@@ -4,9 +4,9 @@
 
 ## Quick Links
 
-Preview Instructor Notes: <a href="https://ladieslearningcode.github.io/klc-programming-with-ruby/notes-en.html">ladieslearningcode.github.io/klc-programming-with-ruby/notes-en.html</a>
+Preview Instructor Notes: <a href="https://prescod.github.io/klc-programming-with-ruby/notes-en.html">prescod.github.io/klc-programming-with-ruby/notes-en.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/klc-programming-with-ruby/slides-en.html">ladieslearningcode.github.io/klc-programming-with-ruby/slides-en.html</a>
+Preview Slides: <a href="https://prescod.github.io/klc-programming-with-ruby/slides-en.html">prescod.github.io/klc-programming-with-ruby/slides-en.html</a>
 
 Activity List: <a href="http://bit.ly/ruby-activity-list">bit.ly/ruby-activity-list</a>
 
@@ -63,9 +63,9 @@ Email questions & comments to <content@ladieslearningcode.com>.
 
 ## Liens vers les ressources :
 
-Aperçu des notes du formateur : <a href="https://ladieslearningcode.github.io/klc-programming-with-ruby/notes-fr.html">ladieslearningcode.github.io/klc-programming-with-ruby/notes-fr.html</a>
+Aperçu des notes du formateur : <a href="https://prescod.github.io/klc-programming-with-ruby/notes-fr.html">prescod.github.io/klc-programming-with-ruby/notes-fr.html</a>
 
-Aperçu des diapositives : <a href="https://ladieslearningcode.github.io/klc-programming-with-ruby/slides-fr.html">ladieslearningcode.github.io/klc-programming-with-ruby/slides-fr.html</a>
+Aperçu des diapositives : <a href="https://prescod.github.io/klc-programming-with-ruby/slides-fr.html">prescod.github.io/klc-programming-with-ruby/slides-fr.html</a>
 
 Liste d'activités : <a href="http://bit.ly/liste-d-activités-ruby">bit.ly/liste-d-activités-ruby</a>
 
